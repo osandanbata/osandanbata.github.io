@@ -4,25 +4,6 @@ title: Osamu SANDANBATA –Tsunami Volcanology & Seismology–
 permalink: /en/
 ---
 
-## Research
-
-**statements.** *My research primarily uses tsunami observations to investigate volcanic, earthquake, and other geophysical processes occurring at and beneath the seafloor*—this is what I call *Tsuanmi Volcanology and Seismology. Tsunamis provide valuable information on the mechanisms and spatiotemporal evolution of their sources, which are often difficult to observe directly beneath the ocean. Tsunami observations, however, capture only one aspect of these source processes. A more complete understanding requires integrating seismic and hydroacoustic waves, earthquake rupture processes, and volcanic deformation. I therefore combine observations and modeling of tsunamis, earthquakes, and volcanoes to understand these processes from multiple physical perspectives. I also study tsunami phenomena themselves, including their generation and propagation.
-
-**topics.** My research topics includes the followings:
-
-1) **tsunami volcanology & seismology.** Tsunami phenomena associated with submarine volcanoes and earthquakes, including trapdoor faulting in submarine calderas, underwater eruptions, and underwater earthquakes.
-
-2) **seismic waveform analysis.** Seismic waveform analysis to investigate source processes, including centroid-moment-tensor analysis, forward modeling, and repeating-event analysis.
-
-3) **earthquake and volcano modeling.** Physical and numerical modeling of tsunamis, and earthquake and volcanic source processes.
-
-4) **general tsunami science.** Tsunami generation, propagation, and coastal impacts, including hazard forecasting and assessment.
-
-<div align="center">
-—
-</div>
-
-
 ## About
 
 **Osamu SANDANBATA** \| Assistant Professor, Earthquake Research Institute, the University of Tokyo.
@@ -35,9 +16,27 @@ permalink: /en/
 </div>
 
 
+## Research
+
+**statements.** *My research primarily uses tsunami observations to investigate volcanic, earthquake, and other geophysical processes occurring at and beneath the seafloor*—this is what I call *Tsuanmi Volcanology and Seismology*. Tsunamis provide valuable information on the mechanisms and spatiotemporal evolution of their sources, which are often difficult to observe directly beneath the ocean. Tsunami observations, however, capture only one aspect of these source processes. A more complete understanding requires integrating seismic and hydroacoustic waves, earthquake rupture processes, and volcanic deformation. I therefore combine observations and modeling of tsunamis, earthquakes, and volcanoes to understand these processes from multiple physical perspectives. I also study tsunami phenomena themselves, including their generation and propagation.
+
+**topics.** My research topics includes the followings:
+
+**1) tsunami volcanology & seismology.** Tsunami phenomena associated with submarine volcanoes and earthquakes, including trapdoor faulting in submarine calderas, underwater eruptions, and underwater earthquakes.
+
+**2) seismic waveform analysis.** Seismic waveform analysis to investigate source processes, including centroid-moment-tensor analysis, forward modeling, and repeating-event analysis.
+
+**3) earthquake and volcano modeling.** Physical and numerical modeling of tsunamis, and earthquake and volcanic source processes.
+
+**4) general tsunami science.** Tsunami generation, propagation, and coastal impacts, including hazard forecasting and assessment.
+
+<div align="center">
+—
+</div>
+
 ## Opportunities
 
-**for graduate students.** I can co-supervise graduate students in the master's and doctoral-degree programs at [the Department of Earth and Planetary Science (EPS), The University of Tokyo](https://www.eps.s.u-tokyo.ac.jp/en/graduateadmission_en/), working alongside a primary supervisor. Potential primary supervisors include my collaborators at ERI: Profs. [Shingo Watada](https://sites.google.com/g.ecc.u-tokyo.ac.jp/watada-lab/english) (earth & planetary dynamics), [Shusuke Takemura](https://sites.google.com/site/takeshun1984/) (seismology), and [Mie Ichihara](https://www.u-tokyo.ac.jp/focus/en/people/people000897.html) (volcanology).
+**for graduate students.** I can co-supervise graduate students in the master's and doctoral-degree programs at [the Department of Earth and Planetary Science (EPS), The University of Tokyo](https://www.eps.s.u-tokyo.ac.jp/en/graduateadmission_en/), working alongside a primary supervisor. My collaborators in related fields at ERI include Profs. [Shingo Watada](https://sites.google.com/g.ecc.u-tokyo.ac.jp/watada-lab/english) (earth & planetary dynamics), [Shusuke Takemura](https://sites.google.com/site/takeshun1984/) (seismology), and [Mie Ichihara](https://www.eri.u-tokyo.ac.jp/ichihalab/EN/index.html) (volcanology). Please contact me to discuss potential research topics and supervision arrangements.
 
 **for visiting students.** I host internship students through funded programs:
 - [UTRIP](https://www.s.u-tokyo.ac.jp/en/utrip/) (6 weeks for undergraduate students) 

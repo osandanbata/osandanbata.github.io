@@ -6,9 +6,19 @@ permalink: /
 
 <!-- # 津波を用いた火山学・地震学 -->
 
+## プロフィール
+
+**三反畑 修** （さんだんばた おさむ）\| 東京大学地震研究所 地球計測系研究部門 助教
+
+[ [メール](mailto:osm3@eri.u-tokyo.ac.jp) / [Google Scholar](https://scholar.google.co.jp/citations?user=jOInzmgAAAAJ&hl=en&oi=ao) / [researchmap](https://researchmap.jp/osandanbata?lang=ja) / [ResearchGate](https://www.researchgate.net/profile/Osamu-Sandanbata) / [CV](/assets/cv.pdf) ]
+
+<div align="center">
+—
+</div>
+
 ## 研究
 
-**研究方針**：私は、津波を海底下で起こる地球物理現象を探るための観測データとして捉え、火山・地震現象の発生メカニズムと時空間発展の素過程研究を行っています–––私はこれを *Tsunami Volcanology and Seismology* と呼んでいます。厚い海水に覆われた海底下の現象を直接観察することは容易ではありませんが、そこで生じた変動は津波となって遠くまで伝わり、その発生過程に関する貴重な情報をもたらします。一方、津波は現象の一側面にすぎません。地震波や水中音響波などの観測と、断層破壊や火山変動の物理モデリングを組み合わせることで、改訂で発生する地球物理現象を多面的に理解することを目指しています。また、津波の発生・伝播・沿岸応答など、津波現象そのものについても研究しています。
+**研究方針**：私は、津波を海底下で起こる地球物理現象を探るための観測データとして捉え、火山・地震現象の発生メカニズムと時空間発展の素過程研究を行っています—私はこれを *Tsunami Volcanology and Seismology* と呼んでいます。厚い海水に覆われた海底下の現象を直接観察することは容易ではありませんが、そこで生じた変動は津波となって遠くまで伝わり、その発生過程に関する貴重な情報をもたらします。一方、津波は現象の一側面にすぎません。地震波や水中音響波などの観測と、断層破壊や火山変動の物理モデリングを組み合わせることで、改訂で発生する地球物理現象を多面的に理解することを目指しています。また、津波の発生・伝播・沿岸応答など、津波現象そのものについても研究しています。
 
 **研究課題**：主に下記の研究を行っています。
 
@@ -24,24 +34,14 @@ permalink: /
 —
 </div>
 
-## プロフィール
 
-**三反畑 修** （さんだんばた おさむ）\| 東京大学地震研究所 地球計測系研究部門 助教
+## 学生・研究者の方へ
 
-[ [メール](mailto:osm3@eri.u-tokyo.ac.jp) / [Google Scholar](https://scholar.google.co.jp/citations?user=jOInzmgAAAAJ&hl=en&oi=ao) / [researchmap](https://researchmap.jp/osandanbata?lang=ja) / [ResearchGate](https://www.researchgate.net/profile/Osamu-Sandanbata) / [CV](/assets/cv.pdf) ]
+**学部生の方へ**：東京大学理学部 地球惑星物理学科4年生向けの「地球惑星物理特別演習」と「地球惑星物理特別研究」において、綿田辰吾教授とともに津波研究の指導を担当しています。また、学内外の学部生を主な対象として2〜3月に開講する「地震研究所スプリングスクール」（[2026年の例](https://www.eri.u-tokyo.ac.jp/education/spring_school_2026/)）において、津波の基礎・観測・計算を学ぶ研究体験プログラムを行っています。
 
-<div align="center">
-—
-</div>
+**大学院志望の方へ**：東京大学[大学院理学系研究科地球惑星科学専攻](https://www.eps.s.u-tokyo.ac.jp/graduateadmission/)の修士課程・博士課程の学生を、主指導教員とともに共同指導することができます。地震研究所内の共同研究者には、[綿田辰吾](https://sites.google.com/g.ecc.u-tokyo.ac.jp/watada-lab/japanese)教授（地球・惑星ダイナミクス）、[武村俊介](https://sites.google.com/site/takeshun1984/)准教授（地震学）、[市原美恵](https://www.eri.u-tokyo.ac.jp/ichihalab/)教授（火山学）などがいます。興味のある方は、研究テーマや指導体制についてご相談ください。
 
-
-## 進学・共同研究をご希望の方へ
-
-**学部生の方へ**：東京大学理学部 地球惑星物理学科の学生（四年）向け授業である「地球惑星物理特別演習」と「地球惑星物理特別研究」において、綿田辰吾教授と津波研究の指導を担当しています。また、学内外の学部生を主な対象として2〜3月に開講する「地震研究所スプリングスクール」（[2026年の例](https://www.eri.u-tokyo.ac.jp/education/spring_school_2026/)）において、津波の基礎・観測・計算を学ぶ研究体験プログラムを行っています。
-
-**大学院志望の方へ**：東京大学[大学院理学系研究科地球惑星科学専攻](https://www.eps.s.u-tokyo.ac.jp/graduateadmission/)の修士課程・博士課程の学生を、主指導教員とともに共同指導することができます。主指導教員の候補としては、地震研究所の共同研究者である[綿田辰吾 教授](https://sites.google.com/g.ecc.u-tokyo.ac.jp/watada-lab/)教授（地球・惑星ダイナミクス）、[武村俊介 准教授](https://sites.google.com/site/takeshun1984/)教授（地震学）、[市原美恵 教授](https://www.u-tokyo.ac.jp/focus/en/people/people000897.html)教授（火山学）が考えられます。
-
-**ポスドク研究員志望の方へ**：[JSPS特別研究員(PD)](https://www.jsps.go.jp/j-pd/pd_sin.html)や[東京大学地震研究所特任研究員](https://www.eri.u-tokyo.ac.jp/recruitinfo/)（例年9月締切: [例](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126062392)）での受け入れが可能です。お気軽にご相談ください。 
+**ポスドク研究員志望の方へ**：[JSPS特別研究員(PD)](https://www.jsps.go.jp/j-pd/pd_sin.html)や[東京大学地震研究所特任研究員](https://www.eri.u-tokyo.ac.jp/recruitinfo/)（例年9月締切: [例](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126062392)）での受け入れが可能です。興味のある方はご相談ください。
 
 <div align="center">
 —
