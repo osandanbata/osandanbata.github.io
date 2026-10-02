@@ -1,0 +1,38 @@
+# Default: ignore everything in this folder
+*
+
+# Keep this file
+!.gitignore
+
+# Core Jekyll/project files
+!index.md
+!_config.yml
+!Gemfile
+!Gemfile.lock
+
+# Required templates/layouts
+!_includes/
+!_includes/**
+!_layouts/
+!_layouts/**
+
+# Public pages (minimal: ja + en)
+!_pages/
+_pages/*
+!_pages/index_en.md
+
+# Public assets (minimal)
+!assets/
+assets/*
+!assets/cv.pdf
+!assets/gitbook/
+!assets/gitbook/**
+
+# Optional: allow future GitHub Pages workflow files
+!.github/
+!.github/workflows/
+!.github/workflows/**
+
+# OS metadata
+.DS_Store
+assets/gitbook/.DS_Store

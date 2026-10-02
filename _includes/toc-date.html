@@ -1,0 +1,83 @@
+<!-- サイドバーコンテナ（左側のナビゲーションパネル） -->
+<div class="book-summary">
+    <!-- JavaScriptユーティリティ: ページスクロール処理 -->
+    <script type="text/javascript">
+        // ページリンククリック時にスクロール位置をリセット（デスクトップ・モバイル対応）
+        function pageScrollToTop(element) {
+            $('div.body-inner').animate({scrollTop: 0});
+            $(element).parent().find('li>ul>li').removeClass('active');
+            return true;
+        }
+        // アンカーリンククリック時にスムーズスクロール（モバイル対応）
+        function mobilePageScrollToAnchor(element) {
+            $(element).closest('li.chapter').find('ul>li').removeClass('active');
+            $(element).parent().addClass('active');
+            if ($(document).width() <= 1240) {
+                let target = $($(element).attr('href'));
+                if (target.length) {
+                    $('div.body-inner').animate({
+                        scrollTop: target.get(0).offsetTop,
+                    });
+                }
+            }
+            return true;
+        }
+    </script>
+
+    <!-- メインナビゲーション -->
+    <nav role="navigation">
+        <!-- メインメニューリスト -->
+        <ul class="summary" style="margin-top: 10px">
+            <!-- Osamu SANDANBATA を見出しとして表示（クリック機能なし） -->
+            <li>
+                <span style="font-weight: bold; font-size: 16px; display: block; padding: 8px 0 8px 30px;">
+                    {{ site.title | escape }}
+                </span>
+                <!-- ホームページの目次を表示 -->
+                {% if site.toc.enabled %}
+                    {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+                {% endif %}
+            </li>
+
+            <li class="divider"></li>
+
+        </ul>
+
+        <!-- 言語切り替え: 現在のページが英語ページの場合は日本語リンク、そうでなければ英語リンク -->
+        <!-- <ul class="summary" style="margin-top: 10px; padding-left: 0;"> -->
+        <ul class="summary" style="margin-top: 10px;">
+            {% if page.url == "/en/index.html" or page.url == "/en/" %}
+            <li class="chapter">
+                <a href="{{site.baseurl}}/" onclick="pageScrollToTop(this)">
+                    Japanese page
+                </a>
+            </li>
+            {% else %}
+            <li class="chapter">
+                <a href="{{site.baseurl}}/en/" onclick="pageScrollToTop(this)">
+                    English page
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+    </nav>
+
+    <!-- 最終更新日時の計算と表示 -->
+    {% assign latest_update = nil %}
+    <!-- サイトの全ドキュメントから最新の更新日を取得 -->
+    {% for item in site.documents %}
+        {% if item.date %}
+            {% if latest_update == nil or item.date > latest_update %}
+                {% assign latest_update = item.date %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+
+    <!-- 最終更新日時をフッターに表示 -->
+    {% if latest_update %}
+    <div class="book-summary-footer" style="padding: 12px 15px 18px; border-top: 1px solid rgba(0,0,0,0.08); color: #666; font-size: 12px; line-height: 1.5; text-align: center;">
+        Updated: {{ latest_update | date: "%d %B %Y" }}
+    </div>
+    {% endif %}
+
+</div>

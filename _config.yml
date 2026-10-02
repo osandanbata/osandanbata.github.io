@@ -1,0 +1,58 @@
+# Configurations
+title:            Osamu SANDANBATA
+author:           OS
+email:            osm3@eri.u-tokyo.ac.jp
+description: >
+  Osamu SANDANBATA - Tsunami Volcanology and Seismology
+
+version:          1.0
+
+# URL configuration
+url:              'https://osandanbata.github.io'
+# baseurl:          '/newsite'
+rss:              RSS
+
+# Table of Contents
+toc:
+  enabled: true
+  enabled_index: true
+  h_min:   2
+  h_max:   2
+
+# Favicon
+favicon_path:     /assets/gitbook/images/title.png
+
+# Markdown engine
+markdown:         kramdown
+kramdown:
+  auto_ids:               true
+  input:                  GFM
+  math_engine:            mathjax
+  smart_quotes:           lsquo,rsquo,ldquo,rdquo
+  toc_levels:             1..6
+  syntax_highlighter:     rouge
+  syntax_highlighter_opts:
+    guess_lang:           true
+
+syntax_highlighter_style: colorful
+
+# Permalinks
+permalink:                /:categories/:title:output_ext
+
+# Exclude files
+exclude:
+  - _drafts
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jemoji
+  - jekyll-sitemap
+
+github_username: osandanbata
