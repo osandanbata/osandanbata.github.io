@@ -39,15 +39,21 @@ permalink: /en/
 **for graduate students.** I can co-supervise graduate students in the master's and doctoral-degree programs at [the Department of Earth and Planetary Science (EPS), The University of Tokyo](https://www.eps.s.u-tokyo.ac.jp/en/graduateadmission_en/), working alongside a primary supervisor. My collaborators in related fields at ERI include Profs. [Shingo Watada](https://sites.google.com/g.ecc.u-tokyo.ac.jp/watada-lab/english) (earth & planetary dynamics), [Shusuke Takemura](https://sites.google.com/site/takeshun1984/) (seismology), and [Mie Ichihara](https://www.eri.u-tokyo.ac.jp/ichihalab/EN/index.html) (volcanology). Please contact me to discuss potential research topics and supervision arrangements.
 
 **for visiting students.** I host internship students through funded programs:
+
 1) [UTRIP](https://www.s.u-tokyo.ac.jp/en/utrip/) (6 weeks for undergraduate students) 
+
 2) [JST Sakura Science Program](https://www.eri.u-tokyo.ac.jp/en/international/jst-sakura-science-program/) (3 weeks for graduate and undergraduate students).
 
 **for post-docs.** Funding opportunities for postdoctoral researchers include:
+
 1) [ERI Visiting Program for Post-doc Researchers](https://www.eri.u-tokyo.ac.jp/en/international/for-researchers/long-term-visiting-program/) (2 years)
+
 2) [JSPS Postdoctoral Fellowship for Research in Japan (Standard)](https://www.jsps.go.jp/english/e-fellow/e-ippan/index.html) (1–2 years)
 
 **for visitors.** Funding opportunities for visiting researchers include:
+
 1) [ERI Visiting Program for Visiting Researchers](https://www.eri.u-tokyo.ac.jp/en/international/for-researchers/long-term-visiting-program/) (2–6 months)
+
 2) [JSPS Invitational Fellowships](https://www.jsps.go.jp/english/e-inv/index.html) (Long-term: 2–10 months; Short-term: 14–60 days)
 
 Self-funded visits are also welcome. For more details, please see the [ERI international page](https://www.eri.u-tokyo.ac.jp/en/international/).
