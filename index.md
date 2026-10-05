@@ -10,7 +10,7 @@ permalink: /
 
 **三反畑 修** （さんだんばた おさむ）\| 東京大学地震研究所 地球計測系研究部門 助教
 
-[ [メール](mailto:osm3@eri.u-tokyo.ac.jp) / [Google Scholar](https://scholar.google.co.jp/citations?user=jOInzmgAAAAJ&hl=en&oi=ao) / [researchmap](https://researchmap.jp/osandanbata?lang=ja) / [ResearchGate](https://www.researchgate.net/profile/Osamu-Sandanbata) / [CV](/assets/cv.pdf) ]
+[ [メール](mailto:osm3@eri.u-tokyo.ac.jp) / [cv](/assets/cv.pdf) / [Google Scholar](https://scholar.google.co.jp/citations?user=jOInzmgAAAAJ&hl=en&oi=ao) / [researchmap](https://researchmap.jp/osandanbata?lang=ja) / [ORCID](https://orcid.org/0000-0002-2361-8482) / [ResearchGate](https://www.researchgate.net/profile/Osamu-Sandanbata) ]
 
 <div align="center">
 —

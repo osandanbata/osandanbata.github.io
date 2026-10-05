@@ -6,9 +6,9 @@ permalink: /en/
 
 ## About
 
-**Osamu SANDANBATA** \| Assistant Professor, Earthquake Research Institute, the University of Tokyo.
+**Osamu SANDANBATA** \| Assistant Professor, Earthquake Research Institute, the University of Tokyo. [[CV](/assets/cv.pdf)]
 
-[ [email](mailto:osm3@eri.u-tokyo.ac.jp) / [Google Scholar](https://scholar.google.co.jp/citations?user=jOInzmgAAAAJ&hl=en&oi=ao)/ [researchmap](https://researchmap.jp/osandanbata?lang=ja) / [ResearchGate](https://www.researchgate.net/profile/Osamu-Sandanbata) / [CV](/assets/cv.pdf) ]
+[ [email](mailto:osm3@eri.u-tokyo.ac.jp) / [cv](/assets/cv.pdf) / [Google Scholar](https://scholar.google.co.jp/citations?user=jOInzmgAAAAJ&hl=en&oi=ao)/ [researchmap](https://researchmap.jp/osandanbata?lang=ja) / [ORCID](https://orcid.org/0000-0002-2361-8482) / [ResearchGate](https://www.researchgate.net/profile/Osamu-Sandanbata) ]
 
 
 <div align="center">
