@@ -53,7 +53,7 @@ permalink: /
 
 ### 投稿済み論文
 
-[-] Okuwaki, R., Fan, W., Sandanbata, O., Roman, D. C., & Fialko, Y. (submitted). The explosive engine of the 2022 Hunga submarine eruption. [https://eartharxiv.org/repository/view/14897/](https://eartharxiv.org/repository/view/14897/)
+[-] Okuwaki, R., Fan, W., Sandanbata, O., Roman, D. C., & Fialko, Y. (under review). The explosive engine of the 2022 Hunga submarine eruption. [https://eartharxiv.org/repository/view/14897/](https://eartharxiv.org/repository/view/14897/)
 
 ### 査読済み出版論文
 
